@@ -1,0 +1,1 @@
+result[obj[key]]=result[obj[key]]?[...result[obj[key],key]:[key]]
